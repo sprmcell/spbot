@@ -19,3 +19,5 @@ bans a user, with or without a reason (they were very based)
 unbans a user, might not work (you kicked the transgender mod)
 ### bans
 lists all banned users and reason in your server 
+### setprefix
+sets the bots prefix for current server
